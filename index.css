@@ -1,0 +1,30 @@
+.container {
+    padding: 20px;
+    background-color: rgb(207, 207, 207);
+    text-align: center;
+}
+
+/* Class */
+.title {
+    color: rgb(114, 174, 252);
+    font-size: 40px;
+}
+
+/* Id */
+#desc {
+    color: rgb(75, 75, 75);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#self-claim {
+    color: rgb(41, 41, 41);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#my-info {
+    color: aliceblue;
+    font-size: 15px;
+    font-family: monospace;
+}
